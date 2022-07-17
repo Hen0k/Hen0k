@@ -1,4 +1,5 @@
 ## Hi there 👋 It's *Henok*.
+![Visitor Count](https://komarev.com/ghpvc/?username=hen0k)
 <!--
 **Hen0k/Hen0k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
