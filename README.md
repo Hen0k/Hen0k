@@ -20,6 +20,9 @@ I am a Computer Engineer | ML Engineer | Maker.
     <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Hen0k&theme=black-ice&hide_border=true&stroke=0000&background=060B0D">
   </a>
 
+<!-- ![activity-graph](https://activity-graph.herokuapp.com/graph?username=Hen0k&theme=minimal) -->
+<!-- ![another-graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hen0k&theme=2077&include_all_commits=true&count_private=true) -->
+
 ### Tools That I Use
 
 ![linux][linux-icon] ![pop_os][pop_os-icon] ![brave][brave-icon] ![vscode][vscode-icon] ![vim][vim-icon]
@@ -28,11 +31,11 @@ I am a Computer Engineer | ML Engineer | Maker.
 
 ![pytorch][pytorch-icon] ![tensorflow][tensorflow-icon] ![pandas][pandas-icon] ![numpy][numpy-icon] ![plotly][plotly-icon] ![scipy][scipy-icon] ![sklearn][sklearn-icon] ![DVC][dvc-icon]
 
-![kafka][kafka-icon] ![airflow][airflow-icon]
+![kafka][kafka-icon] ![airflow][airflow-icon] ![spark][spark-icon]
 
 ![flask][flask-icon] ![fastapi][fast-api-icon] ![node][node-icon]
 
-![mysql][mysql-icon] ![postgress][postgress-icon] ![mongodb][mongo-icon] ![redis][redis-icon]
+![mysql][mysql-icon] ![postgress][postgress-icon] ![mongodb][mongo-icon] ![redis][redis-icon] ![dbt][dbt-icon]
 
 ![react][react-icon] ![react-native][react-native-icon] ![streamlit][streamlit-icon]
 
@@ -86,11 +89,12 @@ I am a Computer Engineer | ML Engineer | Maker.
 [sklearn-icon]: https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white
 [scipy-icon]: https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white
 [dvc-icon]: https://img.shields.io/badge/-DVC-05122A?style=flat&logo=DVC
-
+[dbt-icon]: https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white
 [docker-icon]: https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white
 [arduino-icon]: https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white
 [raspberry-pi-icon]: https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi
 [airflow-icon]: https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white
+[spark-icon]: https://img.shields.io/badge/Apache_Spark-FFFFFF?style=flat&logo=apachespark&logoColor=#E35A16
 
 [upwork-icon]: https://img.shields.io/badge/UpWork-6FDA44?style=flat&logo=Upwork&logoColor=white
 
