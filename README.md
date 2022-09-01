@@ -1,11 +1,11 @@
-# Hi, I'm Henok 👋
+# Hi, my name is Henok 👋
 
-I am a Computer Engineer | ML Engineer | Maker.
+I am a Machine Learning Engineer
 
-- 🔭 I’m currently building my portfolio with 10 Academy
+- 🔭 I’m currently working on a capstone project in the healthcare space using [FHIR][fhir-page] and [Geometric Deep Learning][gdl-book]
 - 🌱 I’m learning ML engineering, MLOps, Data Engineering, and a little bit of WEB 3.
 - 📫 I love playing video games, listening to podcasts and coding
-- ⚡ Check out my recent [Blogs](https://medium.com/@tilaye.henok/)
+- ⚡ Check out my [Blogs](https://medium.com/@tilaye.henok/)
 
 <!-- ## GitHub Stats -->
 
@@ -105,3 +105,6 @@ I am a Computer Engineer | ML Engineer | Maker.
 [upwork-icon]: https://img.shields.io/badge/UpWork-6FDA44?style=flat&logo=Upwork&logoColor=white
 
 [ethereum-icon]: https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=Ethereum&logoColor=white
+
+[fhir-page]: https://www.hl7.org/fhir/overview.html
+[gdl-book]: www.geometricdeeplearning.com
