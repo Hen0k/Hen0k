@@ -1,4 +1,4 @@
-# Hi, my name is Henok 👋
+# Hi 👋
 
 I am a Machine Learning Engineer
 
