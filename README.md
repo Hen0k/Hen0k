@@ -107,4 +107,4 @@ I am a Machine Learning Engineer
 [ethereum-icon]: https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=Ethereum&logoColor=white
 
 [fhir-page]: https://www.hl7.org/fhir/overview.html
-[gdl-book]: www.geometricdeeplearning.com
+[gdl-book]: https://geometricdeeplearning.com/
