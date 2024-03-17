@@ -1,8 +1,8 @@
 # Hi 👋
 
-I am a Machine Learning Engineer
+An experianced DataOps Engineer 
 
-- 🔭 I’m currently working on a capstone project in the healthcare space using [FHIR][fhir-page] and [Geometric Deep Learning][gdl-book]
+- 🔭 I’m currently working on a data-warehouseing project for Moodle-HQ
 - 🌱 I’m learning ML engineering, MLOps, Data Engineering, and a little bit of WEB 3.
 - 📫 I love playing video games, listening to podcasts and coding
 - ⚡ Check out my [Blogs](https://medium.com/@tilaye.henok/)
