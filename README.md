@@ -7,13 +7,13 @@ An experianced DataOps Engineer
 - 📫 I love playing video games, listening to podcasts and walking
 - ⚡ Check out my [Blogs](https://medium.com/@tilaye.henok/)
 
-<!-- ## GitHub Stats -->
+
 
 <!-- ![Henok's github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Hen0k&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=060B0D")
 ![Stream count](https://github-readme-streak-stats.herokuapp.com/?user=Hen0k&theme=black-ice&hide_border=true&stroke=0000&background=060B0D)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hen0k&layout=compact&theme=algolia) -->
 
-<!--
+
 ## GitHub Stats
 
 <p align="left">
@@ -48,7 +48,7 @@ An experianced DataOps Engineer
 ![GitHub-Actions][github-action-icon] ![docker][docker-icon]
 
 ![ethereum][ethereum-icon]
--->
+
 #### 📣 You can reach me at
 
 <a href="https://www.linkedin.com/in/henok-tilaye/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;<a href="https://twitter.com/hen0k1"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=flat&logo=twitter&logoColor=white"/></a>&nbsp;<a href="https://medium.com/@tilaye.henok" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white"/></a> &nbsp;
