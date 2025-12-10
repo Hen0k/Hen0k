@@ -2,7 +2,7 @@
 
 An experianced DataOps Engineer 
 
-- 🔭 I’m currently working on a data-warehouseing project for Moodle-HQ
+- 🔭 I’m currently working on a data-warehousing project for Moodle-HQ
 - 🌱 I’m learning big data tools like Apache Iceberg, PySpark, and Kafka
 - 📫 I love playing video games, listening to podcasts and walking
 - ⚡ Check out my [Blogs](https://medium.com/@tilaye.henok/)
