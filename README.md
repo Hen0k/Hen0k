@@ -36,6 +36,8 @@ An experianced DataOps Engineer
 
 ![pytorch][pytorch-icon] ![tensorflow][tensorflow-icon] ![pandas][pandas-icon] ![numpy][numpy-icon] ![plotly][plotly-icon] ![scipy][scipy-icon] ![sklearn][sklearn-icon] ![DVC][dvc-icon]
 
+![tableau][tableau-icon]
+
 ![kafka][kafka-icon] ![airflow][airflow-icon] ![spark][spark-icon]
 
 ![flask][flask-icon] ![fastapi][fast-api-icon] ![node][node-icon]
@@ -94,6 +96,10 @@ An experianced DataOps Engineer
 [sklearn-icon]: https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white
 [scipy-icon]: https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white
 [dvc-icon]: https://img.shields.io/badge/-DVC-05122A?style=flat&logo=DVC
+
+[tableau-icon]: https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000
+
+
 [dbt-icon]: https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white
 [docker-icon]: https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white
 [arduino-icon]: https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white
