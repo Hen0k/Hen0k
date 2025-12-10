@@ -22,8 +22,7 @@ An experianced DataOps Engineer
     <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Hen0k&theme=black-ice&hide_border=true&stroke=0000&background=060B0D">
   </a>
 
- 
-![activity-graph](https://activity-graph.herokuapp.com/graph?username=Hen0k&theme=minimal) 
+
 
  
 ![another-graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hen0k&theme=2077&include_all_commits=true&count_private=true) 
