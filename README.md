@@ -97,7 +97,7 @@ An experianced DataOps Engineer
 [scipy-icon]: https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white
 [dvc-icon]: https://img.shields.io/badge/-DVC-05122A?style=flat&logo=DVC
 
-[tableau-icon]: https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000
+[tableau-icon]: https://img.icons8.com/?size=30&id=9Kvi1p1F0tUo&format=png&color=000000
 
 
 [dbt-icon]: https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white
