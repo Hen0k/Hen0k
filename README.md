@@ -113,3 +113,8 @@ An experianced DataOps Engineer
 
 [fhir-page]: https://www.hl7.org/fhir/overview.html
 [gdl-book]: https://geometricdeeplearning.com/
+
+<p>
+   <img src="https://komarev.com/ghpvc/?username=Hen0k"/>
+   <img src="https://img.shields.io/badge/Henok%20Tilaye%20Available%20for%20Remote%20Work-greenyellow" />
+</p>
