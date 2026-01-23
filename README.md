@@ -117,6 +117,6 @@ An experianced DataOps Engineer
 <p>
    <img src="https://komarev.com/ghpvc/?username=Hen0k"/>
    <a href="https://www.upwork.com/freelancers/~0127aedb34647a7af0">
-     <img src="https://img.shields.io/badge/Henok%20Tilaye%20Available%20for%20Remote%20Work-sagegreen" />
+     <img src="https://img.shields.io/badge/Henok%20Tilaye%20Available%20for%20Remote%20Work-sagegreen" >
   <\a>
 </p>
