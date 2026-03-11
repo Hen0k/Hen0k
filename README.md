@@ -1,10 +1,10 @@
 # Hi 👋
 
-An experianced DataOps Engineer 
+A Senior Data Engineer 
 
 - 🔭 I’m currently working on a data-warehousing project for Moodle-HQ
-- 🌱 I’m learning big data tools like Apache Iceberg, PySpark, and Kafka
-- 📫 I love playing video games, listening to podcasts and walking
+- 🌱 I’m learning and building with LLMs and big data tools like Apache Iceberg, PySpark, and flink
+- 📫 I love playing video games, listening to podcasts and long walks
 - ⚡ Check out my [Blogs](https://medium.com/@tilaye.henok/)
 
 
